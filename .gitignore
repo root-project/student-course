@@ -1,0 +1,22 @@
+# Misc
+.DS_Store
+.vscode
+*.npz
+*.pdf
+*.png
+
+# Python
+__pycache__
+.ipynb_checkpoints
+
+# C++
+*.a
+*.d
+*.o
+*.exe
+*.gch
+*.lib
+*.out
+*.pch
+*.pcm
+*.so

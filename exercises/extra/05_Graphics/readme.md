@@ -3,8 +3,8 @@
 Welcome to the exercises of the **Graphics** learning module!
 
 ## The "Good Plot" Example
-In this exercise, you will follow the steps of the "Good Plot" example that is described in the course slides. In particular, these are the steps to follow:
-- Create the initial data set by placing the code below in a macro called *macro1*:
+In this exercise, you will follow the steps of the "Good Plot" example. In particular, these are the steps to follow:
+- Create the initial data set by placing the code below in a macro called *GoodPlot.C*:
 ```c++
 // The number of points in the data set
 const int n_points = 10;
@@ -24,4 +24,4 @@ double y_errs[n_points] = {5,5,4.7,4.5,4.2,5.1,2.9,4.1,4.8,5.43};
 - Add a legend to the plot, with one entry for the graph and one for the function.
 - Add an arrow (`TArrow`) and some text (`TLatex`) to the canvas.
 
-You can find the solution [here](macro1NoFit.C).
+You can find the solution [here](solutions/goodPlot.C).

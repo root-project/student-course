@@ -3,7 +3,7 @@ Welcome to the exercises of the **C++ Interpreter** learning module!
 
 ## Start a ROOT session
 Carry out these simple tasks:
- - Fire up ROOT
+ - From the terminal, fire up ROOT
  - Verify it works as a calculator
  - List the files in /etc from within the ROOT prompt
  - Inspect the help

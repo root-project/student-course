@@ -5,6 +5,8 @@
 *.pdf
 *.png
 
+!images/*.png
+
 # Python
 __pycache__
 .ipynb_checkpoints

@@ -5,7 +5,7 @@
 *.pdf
 *.png
 
-!images/*.png
+!*/images/*.png
 
 # Python
 __pycache__

@@ -17,4 +17,4 @@ If you want to know a bit more and attempt a few more exercises, including those
 in C++, you can first go through some [extra slides](https://docs.google.com/presentation/d/1iNSwzuhmhJAmU3c1_0SfYgqbr-N7BKILpcAJjojXkSg/edit?usp=sharing) and then go to the `course/exercises/extra` 
 section.
 
-Enjoy! And in case of any issues, don't hesitate to ask on our [forum](root-forum.cern.ch)
+Enjoy! And in case of any issues, don't hesitate to ask on our [forum](https://root-forum.cern.ch)

@@ -9,7 +9,9 @@
         "vscode": {
             "extensions": [
                 "ms-toolsai.jupyter",
-                "ms-python.python"
+                "ms-python.python",
+                "albertopdrf.root-file-viewer",
+                "donjayamanne.vscode-default-python-kernel"
             ]
         }
     }

@@ -12,7 +12,10 @@
                 "ms-python.python",
                 "albertopdrf.root-file-viewer",
                 "donjayamanne.vscode-default-python-kernel"
-            ]
+            ],
+            "settings": {
+                "python.defaultInterpreterPath": "/opt/venv/bin/python"
+            }
         }
     }
 }

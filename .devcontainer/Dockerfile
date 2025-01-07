@@ -6,7 +6,7 @@ ENV VIRTUAL_ENV=/opt/venv
 RUN python3 -m venv $VIRTUAL_ENV
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
-RUN python3 -m pip install --upgrade wheel numpy jupyter metakernel dask distributed pyspark
+RUN python3 -m pip install --upgrade wheel numpy jupyter metakernel dask distributed pyspark awkward
 
 # Make sure the filesystem can detect the ROOT C++ Jupyter kernel
 RUN mkdir -p ~/.local/share/jupyter/kernels && cp -r /opt/root/etc/notebook/kernels/root ~/.local/share/jupyter/kernels

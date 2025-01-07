@@ -12,7 +12,8 @@ The `course/notebooks/01-basics` directory contains some basic concepts of ROOT
 such as creating simple statistics and manipulating ROOT files. The
 `course/notebooks/02-analysis` directory contains different examples of usage of
 the RDataFrame interface and guides the participant through the main steps
-required in a typical HEP analysis workflow.
+required in a typical HEP analysis workflow. Relevant exercises can be found at
+`course/notebooks/exercises/core`.
 
 Enjoy! And in case of any issues, don't hesitate to ask on our
 [forum](https://root-forum.cern.ch). 

@@ -1,6 +1,6 @@
 FROM rootproject/root:6.34.00-ubuntu24.10
 
-RUN apt-get update && apt-get install -y git python3-pip python3-venv
+RUN apt-get update && apt-get install -y git python3-pip python3-venv xrootd-client
 
 ENV VIRTUAL_ENV=/opt/venv
 RUN python3 -m venv $VIRTUAL_ENV

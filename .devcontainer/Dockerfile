@@ -1,4 +1,4 @@
-FROM rootproject/root:6.34.00-ubuntu24.10
+FROM rootproject/root:6.36.00-ubuntu25.04
 
 RUN apt-get update && apt-get install -y git python3-pip python3-venv
 

@@ -13,7 +13,7 @@ In the `course/exercises/core` you will find the exercises that you should attem
 after going through the notebooks with the course material. The course is written in 
 python and it doesn't require much of the C++ knowledge.
 
-The in-person course based on the material in this repository was recorded during the summer of 2025. The recording is available [here](https://videos.cern.ch/record/2300516). We encourage you to watch the video and follow along with the notebooks and exercises. 
+The in-person course based on the material in this repository was recorded during the summer of 2025. The recording is available [here](https://videos.cern.ch/record/2301866). We encourage you to watch the video and follow along with the notebooks and exercises. 
 
 If you want to know a bit more and attempt a few more exercises, including those written 
 in C++, you can first go through some [extra slides](https://docs.google.com/presentation/d/1iNSwzuhmhJAmU3c1_0SfYgqbr-N7BKILpcAJjojXkSg/edit?usp=sharing) and then go to the `course/exercises/extra` 

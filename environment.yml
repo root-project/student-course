@@ -5,3 +5,5 @@ dependencies:
   - pyspark
   - dask
   - distributed
+  - matplotlib
+  - mplhep

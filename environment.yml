@@ -1,7 +1,15 @@
+name: student-course
 channels:
   - conda-forge
+
 dependencies:
   - root>=6.36
   - pyspark
   - dask
   - distributed
+  # notebook 01-histograms-and-graphs
+  - numpy
+  - matplotlib
+  - scipy
+  - mplhep
+  - seaborn

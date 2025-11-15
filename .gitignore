@@ -22,3 +22,6 @@ __pycache__
 *.pch
 *.pcm
 *.so
+
+# Temporary data created by the notebooks
+course/notebooks/*.root

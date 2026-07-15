@@ -1,5 +1,5 @@
 # ROOT course for students
-[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/root-project/student-course.git)
+[![SWAN](https://swan.docs.cern.ch/images/logos/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/root-project/ROOTAdvancedCourse.git)
 [![Github Codespace](https://img.shields.io/badge/open-GH_Codespaces-blue?logo=github)](https://codespaces.new/root-project/student-course?quickstart=1)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/root-project/student-course/main)
 
